@@ -1,19 +1,21 @@
 # Hi, I'm Cary Wood
 
-### Ruby on Rails Developer & Automation Systems Builder
+### Ruby on Rails Developer · MSP Automation & Security Product Builder
 
-I build practical SaaS products, CRM platforms and workflow automation
-around real business and operational problems.
+I build practical SaaS products, CRM platforms, MSP operational tools
+and workflow automation around real business problems.
 
 My work combines Ruby on Rails development with more than 13 years of
 experience in growth marketing, sales, CRM systems, automation and
-client delivery.
+client delivery. Much of my current product work sits at the intersection
+of Rails, Microsoft 365 / Defender, APIs, n8n and MSP operations.
 
 - Based in Navi Mumbai, India
 - Open to remote opportunities with US, UK and European companies
 - Available for international contracting, Employer of Record arrangements
   and relocation opportunities
 - Portfolio: [carywood.co](https://carywood.co)
+- MSP Automation: [mspautomations.co](https://mspautomations.co)
 - LinkedIn: [linkedin.com/in/carywood777](https://www.linkedin.com/in/carywood777)
 
 ---
@@ -28,21 +30,47 @@ website builders and AI-assisted customer conversations.
 
 [View LeadsTrackr case study](https://carywood.co/leadstrackr.html)
 
-### Hammer Flow
+### MSP-VOC — MSP Vulnerability Operations Center
 
-A service-led MSP automation initiative focused on workflow audits,
-implementation, integration, maintenance and managed automation.
+A read-only Microsoft security investigation and vulnerability-operations
+platform built for MSPs and MSSPs managing multiple client tenants.
 
-I built five separate validated n8n workflow prototypes covering:
+The platform organizes supported Microsoft security evidence into an
+MSP-focused technician workflow covering:
 
-- Weekly executive service-desk reporting
-- SLA risk detection
-- Ticket triage and routing recommendations
-- Recurring incident and problem-candidate detection
-- New-hire onboarding readiness
+- Microsoft Defender incident investigation
+- CVE and exposure intelligence
+- NVD, CISA KEV and FIRST EPSS enrichment
+- Exposure Graph relationships
+- Identity Security 360
+- Privileged-access change intelligence
+- Guided security hunts and Microsoft Advanced Hunting
+- Secure Score and Defender Health intelligence
+- Security Cases
+- HaloPSA workflow handoff
+- Executive and operational reporting
 
-[Visit Hammer Flow](https://hammerflow.carywood.co)  
-[View Hammer Flow case study](https://carywood.co/hammer-flow.html)
+The operating model is:
+
+**Signal → Evidence → Meaning → Next Action → Security Case / PSA Handoff → Verification**
+
+MSP-VOC is intentionally read-only. Consequential remediation remains
+under technician control in Microsoft or the appropriate management system.
+
+- [Explore MSP-VOC](https://mspautomations.co/msp-voc)
+- [Open MSP-VOC](https://voc.mspautomations.co)
+
+### MSPAutomations.co
+
+My independent MSP automation practice and product hub focused on
+practical workflow automation for managed service providers.
+
+I have built a library of **34 MSP automation workflow blueprints**
+covering service desk operations, SLA risk, client onboarding, finance,
+sales, reporting, security, data management and other MSP functions,
+along with Microsoft 365 automation and integration work.
+
+[Visit MSPAutomations.co](https://mspautomations.co)
 
 ### LeadMath
 
@@ -77,10 +105,14 @@ Hotwire · Turbo · Stimulus · JavaScript · HTML · CSS · Responsive UI
 Multi-tenancy · Role-based access · Devise · Active Storage  
 SaaS onboarding · CRM pipelines · Forms · Surveys · Page builders
 
+**Microsoft & Security**
+
+Microsoft Graph · Microsoft Defender · Entra ID · Advanced Hunting · Secure Score · NVD · CISA KEV · FIRST EPSS · HaloPSA
+
 **Testing & Delivery**
 
 Minitest · Automated validation · Smoke testing · Git · GitHub  
-Docker Compose · Security headers · Rate limiting
+Docker · Railway · Cloudflare · Security headers · Rate limiting
 
 **Automation & AI**
 
@@ -96,10 +128,14 @@ OpenAI APIs · FFmpeg · CRM integrations
 - Created CRM pipelines, appointments, tasks and calendars
 - Built a visual workflow engine with conditional branching
 - Developed forms, surveys, funnel and website builders
-- Implemented API and webhook integrations
+- Implemented API, Microsoft Graph and webhook integrations
+- Built read-only Microsoft security investigation workflows
+- Added CVE prioritization using NVD, CISA KEV and FIRST EPSS context
+- Built identity, exposure, incident and privileged-access investigation workflows
+- Built Security Case and HaloPSA handoff workflows
 - Maintained extensive automated test coverage
 - Built deterministic workflow-automation rules and validation scripts
-- Designed safe automation rollouts using read-only access and approvals
+- Designed safe automation using evidence boundaries, read-only access and human control
 
 ---
 
@@ -120,5 +156,6 @@ Bangalore**, from August 11, 2025 to December 12, 2025.
 ## Let's Connect
 
 - Portfolio: [carywood.co](https://carywood.co)
+- MSP Automation: [mspautomations.co](https://mspautomations.co)
 - LinkedIn: [linkedin.com/in/carywood777](https://www.linkedin.com/in/carywood777)
 - Email: [cary.wood.777@gmail.com](mailto:cary.wood.777@gmail.com)
